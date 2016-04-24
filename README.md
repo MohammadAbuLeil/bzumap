@@ -1,4 +1,4 @@
-# BZUMAPP-Android App
+# bzuMAPp-Android App
 
 #Description
 We decide to build a mobile application (Android) which increase student's productivity, and give visitors the best of joy by finding the shortest path between any two locations inside the university campus. No need for asking people and get lost anymore.
@@ -8,3 +8,5 @@ A lot of applications provide us with navigation services, such as Google-map, w
 #Author-info
 Jehad Nasser 1122084 
 Masoud Hababah 1112098
+
+Copyright © 2016
