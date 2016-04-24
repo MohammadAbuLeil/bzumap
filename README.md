@@ -6,7 +6,7 @@ We decide to build a mobile application (Android) which increase student's produ
 A lot of applications provide us with navigation services, such as Google-map, waze...etc, these applications are easy to use and have tons of features. But inside the university campus there is a lot of limitation so here we go. we will take advantages of Google's APIs to achieve that.
 
 #Author-info
-Jehad Nasser 1122084
+Jehad Nasser 1122084 <br />
 Masoud Hababah 1112098
 
 Copyright © 2016
