@@ -7,6 +7,8 @@ A lot of applications provide us with navigation services, such as Google-map, w
 
 #Author-info
 Jehad Nasser 1122084 <br />
-Masoud Hababah 1112098
+Masoud Hababah 1112098 <br />
+Ammar Ghosheh 1111494 <br />
+Mohammad Abu Leil 1112217
 
 Copyright © 2016
