@@ -11,7 +11,7 @@ We decide to build a mobile application (Android) which increase student's produ
 
 A lot of applications provide us with navigation services, such as Google-map, waze...etc, these applications are easy to use and have tons of features. But inside the university campus there is a lot of limitation so here we go. we will take advantages of Google's APIs to achieve that.
 
-#Notes about the JSON File
+#About the JSON File
 We are going to use Google Direction API, response will be in JSON, and request as shown in the next URL, it will have two sections of parameters,first one will be the format of the output(Response) and we are going to use JSON. The other section of parameters will be:
 
 Origin: The address, textual latitude/longitude value, or place ID from which you wish to calculate directions.
