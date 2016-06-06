@@ -36,7 +36,8 @@ link: https://github.com/JehadNasser/webServiceCourse
 we just add tow file to this repository: bzumap
 they are DirectionFinder.java AND Place.java 
 
-#Demo video will be sent via email
+#Demo video
+Link: https://drive.google.com/open?id=0B5h7iVe-uaEqUHJYeklFVno5cUk
 
 Thank you 
 
