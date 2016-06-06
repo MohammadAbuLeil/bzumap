@@ -28,7 +28,17 @@ https://maps.googleapis.com/maps/api/directions/output?parameters
 Example, shortest paths between Louvre Museum & Tour Eiffel:
 https://maps.googleapis.com/maps/api/directions/json?origin=48.857708,%202.293996&destination=48.860901,%202.337668&key=AIzaSyDE-hob-Gny6J0oHg1SapzQkpqokKCYnC8
 
+#Service 
+it is in another repository called: webServiceCourse.
+link: https://github.com/JehadNasser/webServiceCourse
 
+#Client
+we just add tow file to this repository: bzumap
+they are DirectionFinder.java AND Place.java 
+
+Demo video will be sent via email
+
+Thank you 
 
 
 Copyright © 2016
